@@ -92,7 +92,7 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 # Home Page
 Here you can find brief history of the products and website
- [(https://miro.medium.com/max/1400/1*PLUooiOjlxhASZxCxgYLWw.jpeg)]
+ ![5](https://miro.medium.com/max/1400/1*PLUooiOjlxhASZxCxgYLWw.jpeg)
     
 
 
@@ -106,7 +106,7 @@ In this Page, You can add the products to the Cart
 
 # Sign-Up Page
 if you want buy any product you need sign up first and login with details then only you can buy
-[(https://miro.medium.com/max/2642/1*ISCDMy_F-LamDu6v6U_BLA.jpeg)]
+![7](https://miro.medium.com/max/2642/1*ISCDMy_F-LamDu6v6U_BLA.jpeg)
 
 
 
