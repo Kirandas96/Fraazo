@@ -45,12 +45,11 @@ Now the biggest question arrive how we made this project just in 7days.so I can 
 ### Pages & Features 👇
 
 - `Home Page`: Nav Bar with dropdowns, sliding banners & slider for offer.
-[homepage](https://miro.medium.com/max/1400/1*PLUooiOjlxhASZxCxgYLWw.jpeg)
+[homepage]
 - `Sign-Up`: User details stored in local storage.
 - `Sign-In`: User authentication to check whether user phone number and password match with details existing in the database.
 
 - `Product Category Page`: Women's products are created dynamically with filters by color,and category.
-[product](https://miro.medium.com/max/1400/1*5x1IoVXMqOKrooFdXxGGCw.jpeg)
 - `Cart`: Users can see or remove products added to the cart.
 - `Checkout Page`: Users can add the delivery address.
 - `Payment Page`: Users can add their payment details.
@@ -93,7 +92,7 @@ First you have to have to go to the `Home Page`. There you have to click on acco
 
 # Home Page
 Here you can find brief history of the products and website
- 
+ (https://miro.medium.com/max/1400/1*PLUooiOjlxhASZxCxgYLWw.jpeg)
     
 
 
@@ -101,13 +100,14 @@ Here you can find brief history of the products and website
 # Add to Cart
 In this Page, You can add the products to the Cart
 
-![8](https://user-images.githubusercontent.com/99576535/155852335-968e79db-6aa8-4fd3-9bbc-c4ab6a262091.PNG)
+![8]
 
 
 
 
 # Sign-Up Page
 if you want buy any product you need sign up first and login with details then only you can buy
+(https://miro.medium.com/max/2642/1*ISCDMy_F-LamDu6v6U_BLA.jpeg)
 
 
 
@@ -115,7 +115,7 @@ if you want buy any product you need sign up first and login with details then o
 
 # Products Page
 In this page, you can find all details of the product like price of the product and some basic information about products.
-![2](https://user-images.githubusercontent.com/99576535/155852329-77e3749c-81b1-4621-ba1b-ca0bc5ffdbe6.PNG)
+![2](https://miro.medium.com/max/1400/1*5x1IoVXMqOKrooFdXxGGCw.jpeg)
 
 
 
